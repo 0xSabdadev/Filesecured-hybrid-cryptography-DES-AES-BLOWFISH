@@ -1,6 +1,6 @@
 # HADES-v2-crypto
 A H-ybrid A-lgorithm E-ncryption DE-cryption S-ystem (HADES) implementing DES, AES, and BLOWFISH algorithms.
-# Urutan Run Program
+# Urutan Run Program (GUI) :bangbang:
 1. buka  .\Hybrid-Cryptography-\src\hybrid\cryptography\HybridCryptography.java
 2. RUN Programnya
 3. Pilih Enkripsi atau Dekripsi
